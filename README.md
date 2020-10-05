@@ -41,4 +41,4 @@ Rule with support 0.33 with itemset ['ι', 'would', 'never', 'thought']
 This rule also indicates that this genre has association rules possibly related to emotions, thinking and feelings, indicated by the phrases "i, would and thought" in the same itemset.
 
 
-
+It seems to me that Country genre shows lyrics that is much more self-interested and surface level. For example, [me], [you,like]->[me],[i] and [she], seem to be the most important items with no items indicating much about thinking. Soft Pop rather seemed to be more focused on emotions and feelings, particularly related to someone else ([you,love]).
